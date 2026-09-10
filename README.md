@@ -42,6 +42,16 @@ Eine vollständige Webanwendung zur Verwaltung von Buchlisten mit API-Integratio
 - Responsive Design
 - Deployment auf Render
 
+### 🤖 [robotrescue-julianjfranco](https://github.com/Prog1-HTW-Berlin-WI/robotrescue-julianjfranco)
+Ein Java-Projekt für Roboter-Rettungssimulation (HTW Berlin - Programmiervorlesung).
+- **Rolle:** Hauptentwickler (35 Commits)
+- **Technologie:** Java
+- **Beschreibung:**
+  - Roboter-Simulationssystem
+  - Algorithmen & Datenstrukturen
+  - Klassenprojekt der HTW Berlin
+- **Status:** Abgeschlossen
+
 ### 💾 [dbtech](https://github.com/blhamza06/dbtech)
 Ein Datenbank-Projekt in Java.
 - **Rolle:** Entwicklung & Mitarbeit
@@ -72,6 +82,10 @@ Ein Datenbank-Projekt in Java.
 ### Datenbanken
 - PostgreSQL
 - SQL-Design
+
+### Algorithmen & Datenstrukturen
+- Simulation & Algorithmen
+- Objektorientierte Programmierung
 
 ### Tools & Plattformen
 - Git & GitHub
