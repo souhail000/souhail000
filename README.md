@@ -1,16 +1,106 @@
-## Hi there 👋
+# 👋 Willkommen auf meinem GitHub!
 
-<!--
-**souhail000/souhail000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin **souhail000**, ein leidenschaftlicher Entwickler mit Interesse an **Webentwicklung, Datenbanken und Full-Stack-Projekten**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Meine Projekte
+
+### 📘 [w-stenaraber](https://github.com/souhail000/w-stenaraber)
+Ein TypeScript-Projekt für Web-Entwicklung.
+- **Sprache:** TypeScript
+- **Status:** In Entwicklung 🔄
+
+---
+
+## 🤝 Zusammenarbeit & Beiträge
+
+### 📚 Bookblock - Buch-Management-System
+Eine vollständige Webanwendung zur Verwaltung von Buchlisten mit API-Integration.
+
+#### [bookblock-webtech](https://github.com/mazendrop/bookblock-webtech) (Backend & API)
+- **Rolle:** Code Development & Implementation
+- **Technologie:** Java, Spring Boot, PostgreSQL, REST API
+- **Beschreibung:** 
+  - Backend-Architektur mit Spring Boot
+  - Google Books API Integration
+  - Datenbank-Design für Buchlisten
+  - REST API für Frontend
+
+#### [Bookblock-frontend](https://github.com/mazendrop/Bookblock-frontend) (Frontend)
+- **Rolle:** Code Development & UI-Implementation
+- **Technologie:** Vue.js, HTML, CSS, JavaScript
+- **Beschreibung:**
+  - Moderne Vue.js Frontend-Anwendung
+  - Intuitive Benutzeroberfläche im Brutalism-Stil
+  - Buchsuche & Leselisten-Management
+  - Lesestatus Tracking (Will ich lesen, Lese ich gerade, Fertig gelesen)
+
+**Gesamtes Projekt:**
+- Bücher über Google Books API suchen
+- Persönliche Leselisten verwalten
+- Responsive Design
+- Deployment auf Render
+
+### 💾 [dbtech](https://github.com/blhamza06/dbtech)
+Ein Datenbank-Projekt in Java.
+- **Rolle:** Entwicklung & Mitarbeit
+- **Technologie:** Java
+- **Status:** In Entwicklung
+
+---
+
+## 💻 Fähigkeiten & Technologien
+
+### Programmiersprachen
+- 🔵 **TypeScript** / JavaScript
+- ☕ **Java**
+- 🌐 **HTML / CSS**
+
+### Frontend
+- Vue.js
+- Responsive Design
+- UI/UX Development
+- Brutalism-Design
+
+### Backend
+- Spring Boot
+- REST APIs
+- Datenbank-Design
+- Google APIs Integration
+
+### Datenbanken
+- PostgreSQL
+- SQL-Design
+
+### Tools & Plattformen
+- Git & GitHub
+- Render (Deployment)
+- Google APIs
+- REST-API Development
+
+---
+
+## 📊 Statistiken
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souhail000&show_icons=true&theme=radical)
+
+---
+
+## 🎯 Aktuelle Ziele
+
+- 🔨 Mehr Full-Stack-Projekte entwickeln
+- 📚 Webentwicklung vertiefen
+- 🚀 Open-Source-Beiträge leisten
+- 🎨 UI/UX Design verbessern
+
+---
+
+## 📫 Kontakt & Links
+
+- **GitHub:** [souhail000](https://github.com/souhail000)
+- **Portfolio:** Meine Projekte oben ansehen
+
+---
+
+> "Code ist Kunst – manchmal chaotisch, aber immer lehrreich!" 🎨💻
