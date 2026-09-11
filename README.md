@@ -82,28 +82,10 @@ Ein Datenbank-Projekt in Java.
 - Google APIs
 - REST-API Development
 
----
-
-## 📊 Statistiken
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souhail000&show_icons=true&theme=radical)
-
----
-
-## 🎯 Aktuelle Ziele
-
-- 🔨 Mehr Full-Stack-Projekte entwickeln
-- 📚 Webentwicklung vertiefen
-- 🚀 Open-Source-Beiträge leisten
-- 🎨 UI/UX Design verbessern
 
 ---
 
 ## 📫 Kontakt & Links
 
 - **GitHub:** [souhail000](https://github.com/souhail000)
-- **Portfolio:** Meine Projekte oben ansehen
-
----
-
-> "Code ist Kunst – manchmal chaotisch, aber immer lehrreich!" 🎨💻
+- **Email:** belkheir.souhail@gmail.com
