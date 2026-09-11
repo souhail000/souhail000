@@ -1,19 +1,8 @@
 # 👋 Willkommen auf meinem GitHub!
 
-Ich bin **souhail000**, ein leidenschaftlicher Entwickler mit Interesse an **Webentwicklung, Datenbanken und Full-Stack-Projekten**.
+Ich bin **Souhail**, ein leidenschaftlicher Entwickler mit Interesse an **Webentwicklung, Datenbanken und Full-Stack-Projekten**.
 
----
-
-## 🚀 Meine Projekte
-
-### 📘 [w-stenaraber](https://github.com/souhail000/w-stenaraber)
-Ein TypeScript-Projekt für Web-Entwicklung.
-- **Sprache:** TypeScript
-- **Status:** In Entwicklung 🔄
-
----
-
-## 🤝 Zusammenarbeit & Beiträge
+## 🤝 Zusammenarbeit & Projekte
 
 ### 📚 Bookblock - Buch-Management-System
 Eine vollständige Webanwendung zur Verwaltung von Buchlisten mit API-Integration.
